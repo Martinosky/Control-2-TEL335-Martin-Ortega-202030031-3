@@ -15,4 +15,4 @@ Librerías que se usaron:
  - styled-components
  - react-icons
 
-
+Link: https://github.com/Martinosky/Control-2-TEL335-Martin-Ortega-202030031-3.git
