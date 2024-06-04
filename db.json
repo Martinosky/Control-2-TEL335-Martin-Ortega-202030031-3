@@ -1,0 +1,13 @@
+{
+  "favorites": [
+    {
+      "id": "5WodmFzySCKkWxuy1YqYJQ",
+      "categories": [],
+      "created_at": "2020-01-05 13:42:26.447675",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "updated_at": "2020-01-05 13:42:26.447675",
+      "url": "https://api.chucknorris.io/jokes/5WodmFzySCKkWxuy1YqYJQ",
+      "value": "Chuck Norris once rocked so hard in an AC/DC concert that it was felt even in 1906. They called it the great San Francisco earthquake."
+    }
+  ]
+}
